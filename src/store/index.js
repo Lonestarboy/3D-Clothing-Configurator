@@ -15,7 +15,7 @@ const state = proxy({
   backLogoDecal: './threejs.png',
   backLogoPosition: [0, 0.04, -0.15],
   backLogoRotation: [0, Math.PI, 0],
-  backLogoScale: 0.15,
+  backLogoScale: 0.35,
   frontText: 'Front Text',
   frontTextPosition: [0, -0.04, 0.15],
   frontTextRotation: [0, 0, 0],
